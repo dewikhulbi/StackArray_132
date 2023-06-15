@@ -26,4 +26,9 @@ public:
 		return element;
 	}
 
+	void pop() {
+		if (empty()) {
+			
+		}
+	}
 };
