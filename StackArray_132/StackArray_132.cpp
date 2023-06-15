@@ -37,6 +37,9 @@ public:
 
 	//metode for checking if data is empty
 	bool empty() {
+		return (top == -1);
+	}
+	void display() {
 
 	}
 };
