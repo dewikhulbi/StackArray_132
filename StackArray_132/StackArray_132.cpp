@@ -24,6 +24,6 @@ public:
 		cout << element << "ditambahkan (pushed)" << endl;
 
 		return element;
-	
+	}
 
 };
